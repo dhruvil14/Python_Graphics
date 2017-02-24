@@ -6,3 +6,4 @@ def make_c() :
 	s.circle(50)
 	window.exitonclick()
 make_c()
+
